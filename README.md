@@ -8,4 +8,4 @@
 # Quick Links
 * Website: [Mi página web](https://mariiapl.github.io)
 
-![Bicicleta](https://pixabay.com/es/photos/bicicleta-prado-flores-hierba-788733/)
+![Bicicleta](https://cdn.pixabay.com/photo/2015/05/28/22/29/bicycle-788733_960_720.jpg)
